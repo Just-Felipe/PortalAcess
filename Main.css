@@ -18,7 +18,7 @@ body{
 
 .left-login{
     width: 100vw;
-    height: 100vw
+    height: 100vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -27,7 +27,7 @@ body{
 }
 
 .left-login > h1{
-    margin: 10px 110px;
+    margin: 10px 40px;
  color:rgb(255, 255, 255);
  font-size: 3vw;
  font-display: center;
@@ -51,12 +51,13 @@ margin: 30px 105px;
 
 .left-image{
     width: 35vw;
-    margin: 20px 30px
+    margin: 20px 60px
+
 }
 
 .right-login{
     width: 100vw;
-    height: 100vw
+    height: 100vw;
     display: flex;
     justify-content: center;
     align-items: center;
